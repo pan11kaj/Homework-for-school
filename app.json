@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Home-Works-for-school",
+    "slug": "HomeWork",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/homework.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package":"com.sahus.homework"
+     
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
